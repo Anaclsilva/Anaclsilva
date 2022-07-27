@@ -1,9 +1,9 @@
 ### 
-<h3 align="center"> Olá pessoal! 👽
-Me chamo Ana Claudia🛸
+<p align="left><h3 align="center"> Olá pessoal! 👽</p>
+<p>Me chamo Ana Claudia🛸</p>
 
-🔭 Hobbies: ler e assitir séries de Ficção científica.
-👨‍🎓 Formação: Participante da 8º Edição do Programa Starter Full Stack Web Developer na Growdev e Estudante de Analise e Desenvolvimento de Sistemas..</h3>
+<p>🔭 Hobbies: ler e assitir séries de Ficção científica.</p>
+<p>👨‍🎓 Formação: Participante da 8º Edição do Programa Starter Full Stack Web Developer na Growdev e Estudante de Analise e Desenvolvimento de Sistemas..</h3></p>
 
 
 <p align="left"> <img src= "https://komarev.com/ghpvc/?username=anaclsilva&label=Profile%20views&color=0e75b6&style=flat" alt="anaclsilva" /> </p>
