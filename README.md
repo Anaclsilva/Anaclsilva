@@ -1,6 +1,11 @@
 ### 
 <h3 align="center"> 🧑‍Systems Analysis student, professional Full Stack Web Developer in training by the Growdev program..</h3>
 
+
+![Thesis](https://user-images.githubusercontent.com/103545674/181137091-5e951c94-891d-43bf-a965-a7aa38cc6f09.gif)
+
+
+
 <p align="left"> <img src= "https://komarev.com/ghpvc/?username=anaclsilva&label=Profile%20views&color=0e75b6&style=flat" alt="anaclsilva" /> </p>
 
 <p align="left"> <a href="https: //github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anaclsilva" alt="anaclsilva" /></ a> </p>
