@@ -1,9 +1,9 @@
 ### 
-<h3 align="center"> 🧑‍Systems Analysis student, professional Full Stack Web Developer in training by the Growdev program..</h3>
+<h3 align="center"> Olá pessoal! 👽
+Me chamo Ana Claudia🛸
 
-
-![Thesis](https://user-images.githubusercontent.com/103545674/181137091-5e951c94-891d-43bf-a965-a7aa38cc6f09.gif)
-
+🔭 Hobbies: ler e assitir séries de Ficção científica.
+👨‍🎓 Formação: Participante da 8º Edição do Programa Starter Full Stack Web Developer na Growdev e Estudante de Analise e Desenvolvimento de Sistemas..</h3>
 
 
 <p align="left"> <img src= "https://komarev.com/ghpvc/?username=anaclsilva&label=Profile%20views&color=0e75b6&style=flat" alt="anaclsilva" /> </p>
