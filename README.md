@@ -1,5 +1,5 @@
 ###  <h1 align="center">Oi 🦄, I'm Ana</h1>
-<h2 align="center"> 🧑‍🎓Estudante de Análise de Sistema</h2>
+<h2 align="center"> 🧑‍🎓Estudante de Análise de Sistemas,profissional Full Stack Web Developer em formação pelo programa Growdev.</h2>
 
 <p align="left"> <img src= "https://komarev.com/ghpvc/?username=anaclsilva&label=Profile%20views&color=0e75b6&style=flat" alt="anaclsilva" /> </p>
 
